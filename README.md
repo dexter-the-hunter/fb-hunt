@@ -66,4 +66,3 @@ Password: secret123
 
 Owner : DEXTER ( TAFFY ) | Taffy Creations
 
-DEXTER ( TAFFY )
