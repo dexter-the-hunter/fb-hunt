@@ -17,6 +17,11 @@ Do NOT use this tool for any malicious or illegal activity.
 The developer is not responsible for any misuse or legal issues caused by using this tool.
 Always get proper authorization before testing any system.
 
+## Working On
+1. Kali Linux ( Tested By DEXTER )
+2. Termix ( Android ) (Tested By DEXTER )
+3. Windows 10 ( Tested By DEXTER )
+
 ## Installation
 1. Clone the Repo
 ```bash
@@ -56,8 +61,9 @@ Password: secret123
 --------------------
 ```
 
+
 ## 👤 Author
 
-Taffy Creations
+Owner : DEXTER ( TAFFY ) | Taffy Creations
 
 DEXTER ( TAFFY )
