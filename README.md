@@ -25,7 +25,7 @@ Always get proper authorization before testing any system.
 ## Installation
 1. Clone the Repo
 ```bash
-git clone https://github.com/dexter-the-hunter
+git clone https://github.com/dexter-the-hunter/fb-hunt.git
 ```
 2. Go to Cloned File
 ```bash
