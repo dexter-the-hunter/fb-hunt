@@ -19,7 +19,7 @@ Always get proper authorization before testing any system.
 
 ## Working On
 1. Kali Linux ( Tested By DEXTER )
-2. Termix ( Android ) (Tested By DEXTER )
+2. Termux ( Android ) (Tested By DEXTER )
 3. Windows 10 ( Tested By DEXTER )
 
 ## Installation
